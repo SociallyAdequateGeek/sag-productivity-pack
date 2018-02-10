@@ -1,0 +1,68 @@
+{
+    "name": "sag-tooling-pack",
+    "displayName": "SAG Productivity Pack",
+    "description": "A collection of essential extensions targeted at dev productivity and bliss",
+    "version": "1.0.0",
+    "publisher": "SociallyAdequateGeek",
+    "engines": {
+        "vscode": "^1.20.0"
+    },
+    "icon": "SAG.png",
+    "galleryBanner": {
+        "color": "#ffe6f2",
+        "theme": "light"
+    },
+    "keywords": [
+        "npm",
+        "intellisense",
+        "git",
+        "commits",
+        "metrics"
+    ],
+    "categories": [
+        "Extension Packs"
+    ],
+    "repository": {
+        "url": "https://github.com/SociallyAdequateGeek/sag-productivity-pack"
+    },
+    "homepage": "https://github.com/SociallyAdequateGeek/sag-productivity-pack",
+    "bugs": {
+        "url": "https://github.com/SociallyAdequateGeek/sag-productivity-pack/issues"
+    },
+    "extensionDependencies": [ 
+        "formulahendry.code-runner",
+        "jasonnutter.search-node-modules",
+        "eg2.vscode-npm-script",
+        "christian-kohler.npm-intellisense",
+        "christian-kohler.path-intellisense",
+        "pprice.better-merge",
+        "donjayamanne.githistory",
+        "eamodio.gitlens",
+        "ziyasal.vscode-open-in-github",
+        "bierner.markdown-preview-github-styles",
+        "ms-vscode.node-debug2",
+        "WallabyJs.quokka-vscode",
+        "msjsdiag.debugger-for-chrome",
+        "aaron-bond.better-comments",
+        "emmanuelbeziat.vscode-great-icons",
+        "wix.vscode-import-cost",
+        "howardzuo.vscode-npm-dependency",
+        "naumovs.color-highlight",
+        "wayou.vscode-todo-highlight",
+        "cssho.vscode-svgviewer",
+        "2gua.rainbow-brackets",
+        "EditorConfig.EditorConfig",
+        "spywhere.guides",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "pranaygp.vscode-css-peek",
+        "Zignd.html-css-class-completion",
+        "esbenp.prettier-vscode",
+        "kisstkondoros.vscode-codemetrics"
+    ]
+}
+
+
+        
+        
+        
