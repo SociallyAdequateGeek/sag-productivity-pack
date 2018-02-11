@@ -2,15 +2,15 @@
     "name": "sag-tooling-pack",
     "displayName": "SAG Productivity Pack",
     "description": "A collection of essential extensions targeted at dev productivity and bliss",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "SociallyAdequateGeek",
     "engines": {
         "vscode": "^1.20.0"
     },
     "icon": "SAG.png",
     "galleryBanner": {
-        "color": "#ffe6f2",
-        "theme": "light"
+        "color": "#777777",
+        "theme": "dark"
     },
     "keywords": [
         "npm",
